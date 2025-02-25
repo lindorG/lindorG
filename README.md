@@ -1,6 +1,8 @@
-### Software Engineer | Backend, Frontend, Design
+![Banner](https://source.unsplash.com/1600x400/?technology,coding)
 
-I design and build scalable software solutions, specializing in backend development, API integration, and cloud computing. My expertise spans Java (Spring Boot), containerization (Docker, Kubernetes, OpenShift), and AI-driven automation. I have expertise in SQL/data management, system optimization, and process automation, with a focus on creating maintainable and efficient software architectures.
+### Software Engineer | Backend Developer | Systems Architect
+
+I design and build scalable software solutions, specializing in backend development, API integration, and cloud computing. My expertise spans Java (Spring Boot), containerization (Docker, Kubernetes, OpenShift), and AI-driven automation. I have a strong background in data management, system optimization, and process automation, with a focus on creating maintainable and efficient software architectures.
 
 ---
 
@@ -35,7 +37,7 @@ A Chrome extension that ensures Reddit always loads with the "Hot" sorting prefe
 
 ---
 
-## Tools & Technologies
+## 🛠️ Tools & Technologies
 
 **Programming Languages:** Java, SQL, JavaScript, Python, C#  
 **Frameworks:** Spring Boot, .NET, React, Hibernate, Node.js, Angular  
@@ -45,11 +47,14 @@ A Chrome extension that ensures Reddit always loads with the "Hot" sorting prefe
 
 ---
 
-## Connect
+## 📡 Connect
 
-[LinkedIn](https://www.linkedin.com/in/lindor-gio/)  
-[GitHub](https://github.com/lindorG)  
+📎 [LinkedIn](https://www.linkedin.com/in/lindor-gio/)  
+🐙 [GitHub](https://github.com/lindorG/)  
+🎮 [Steam](https://steamcommunity.com/id/qumshoe/)
 
 I am always looking for opportunities to collaborate on meaningful projects. If you're working on something interesting, feel free to reach out.
 
-When I’m not coding, you’ll find me doing freelance photography, exploring digital art, or capturing the night sky through astrophotography.
+📷 I shoot with a **Sony mirrorless camera** and a **Sony FE 35mm f/1.4 GM Lens**, capturing high-quality photography across various settings.
+
+When I’m not coding, I am either studying, doing freelance photography or editing, creating digital or traditional art, or playing a game.
