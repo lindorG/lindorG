@@ -14,9 +14,8 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=lindorG&icon=0&color=0)](https://visitcount.itsvg.in)
 
-# Let's Connect
-
-## [![LinkedIn](https://i.ibb.co/Y7gkw954/Linked-In-Logo-Small.png)](https://www.linkedin.com/in/lindor-gio/)
+# Let's Connect:
+# [![LinkedIn](https://i.ibb.co/Y7gkw954/Linked-In-Logo-Small.png)](https://www.linkedin.com/in/lindor-gio/)
 
 ### I am always looking for opportunities to collaborate on meaningful projects. If you're working on something interesting or just need help with bug fixes, feel free to reach out.
 
