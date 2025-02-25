@@ -16,7 +16,7 @@
 
 # Let's Connect
 
-## ![LinkedIn](https://i.ibb.co/Y7gkw954/Linked-In-Logo-Small.png)(https://www.linkedin.com/in/lindor-gio/)  
+## [![LinkedIn](https://i.ibb.co/Y7gkw954/Linked-In-Logo-Small.png)](https://www.linkedin.com/in/lindor-gio/)
 
 ### I am always looking for opportunities to collaborate on meaningful projects. If you're working on something interesting or just need help with bug fixes, feel free to reach out.
 
