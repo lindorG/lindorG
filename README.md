@@ -1,53 +1,55 @@
-# Hi there, I'm Lindor Gio! 👋
+### Software Engineer | Backend, Frontend, Design
 
-🚀 **Software Engineer | Backend & Full-Stack Developer | AI Enthusiast**  
+I design and build scalable software solutions, specializing in backend development, API integration, and cloud computing. My expertise spans Java (Spring Boot), containerization (Docker, Kubernetes, OpenShift), and AI-driven automation. I have expertise in SQL/data management, system optimization, and process automation, with a focus on creating maintainable and efficient software architectures.
 
-With experience in backend and full-stack development, I specialize in Java (Spring Boot), API integration, cloud computing (Docker, Kubernetes, OpenShift), and AI-driven chatbot solutions. I have a strong background in data management, system automation, and regression testing. Passionate about building efficient, scalable applications and optimizing workflows.
+---
 
-## 🏗️ Featured Projects
-### [Pokémon Team Building E-Commerce Platform](https://github.com/lindorG/Pokemon-Team-Builder-E-Commerce-Platform)
-A full-stack e-commerce platform where users can browse Pokémon listings, build a team, and manage selections.
+## Notable Projects
 
-🔹 **Tech Stack:** Java, Spring Boot, MySQL, Docker, JSP, JavaScript, HTML, CSS  
-📌 **Key Features:**
-- Search and filter Pokémon selections
-- Shopping cart functionality with authentication
-- Database schema for secure user data storage
-- Containerized with Docker for streamlined deployment
+### [Pokémon Team Building E-Commerce Platform](https://github.com/lindorG/Pokemon-Team-Builder-E-Commerce-Platform) ([Live Demo](https://poketheory.shop))
+A web-based e-commerce platform that enables users to browse, build, and manage Pokémon team selections with a structured shopping experience.
+
+**Tech Stack:** Java, Spring Boot, MySQL, Docker, JSP, JavaScript, HTML, CSS  
+**Key Features:**
+- Dynamic search and filtering for Pokémon selections
+- Shopping cart functionality with user authentication
+- Secure data storage with an encrypted database schema
+- Containerized deployment using Docker for consistency across environments
 
 ### [GumShoe AI](https://github.com/lindorG/GumShoe-AI)
-An AI-powered chatbot leveraging NLP for investigative and research purposes.
+An intelligent chatbot designed to assist in investigative and research tasks by leveraging natural language processing.
 
-🔹 **Tech Stack:** Python, TensorFlow, NLP, OpenAI API, Flask  
-📌 **Key Features:**
-- Intelligent question-answering with AI
-- Context-aware responses for investigations
-- API integration with research databases
+**Tech Stack:** Python, TensorFlow, NLP, OpenAI API, Flask  
+**Key Features:**
+- Context-aware, AI-driven responses for investigative queries
+- Seamless API integration with research and documentation sources
+- Scalable backend built to support large query loads
 
 ### [Reddit Hot Redirect](https://github.com/lindorG/Reddit-Hot-Redirect)
-A Chrome extension that automatically redirects Reddit’s default sorting from "Best" to "Hot."
+A Chrome extension that ensures Reddit always loads with the "Hot" sorting preference, improving browsing efficiency.
 
-🔹 **Tech Stack:** JavaScript, Chrome Extensions API  
-📌 **Key Features:**
-- Enhances Reddit browsing experience
-- Works seamlessly without user intervention
+**Tech Stack:** JavaScript, Chrome Extensions API  
+**Key Features:**
+- Automatic redirection for a streamlined Reddit experience
+- Lightweight and requires no user interaction after installation
 
-## 🛠️ Tech Stack & Tools
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=red-hat-open-shift&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Lindor_Gio-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/lindor-gio/)  
-[![GitHub](https://img.shields.io/badge/GitHub-lindorG-181717?style=for-the-badge&logo=github)](https://github.com/lindorG)
+## Tools & Technologies
 
-💡 Actively seeking opportunities to contribute to impactful projects and volunteer efforts to support my community.
+**Programming Languages:** Java, SQL, JavaScript, Python, C#  
+**Frameworks:** Spring Boot, .NET, React, Hibernate, Node.js, Angular  
+**DevOps & Cloud:** Docker, Kubernetes, OpenShift, Git, Azure  
+**Databases:** MySQL, Oracle SQL  
+**Other Tools:** Postman, Linux, Genesys Administrator, Adobe Photoshop, Adobe Lightroom  
 
-📸 In my free time, I enjoy freelance photography, digital art, astrophotography, and continuous learning!
+---
+
+## Connect
+
+[LinkedIn](https://www.linkedin.com/in/lindor-gio/)  
+[GitHub](https://github.com/lindorG)  
+
+I am always looking for opportunities to collaborate on meaningful projects. If you're working on something interesting, feel free to reach out.
+
+When I’m not coding, you’ll find me doing freelance photography, exploring digital art, or capturing the night sky through astrophotography.
