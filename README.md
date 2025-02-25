@@ -16,8 +16,8 @@
 
 # Let's Connect
 
-📎 [LinkedIn](https://www.linkedin.com/in/lindor-gio/)  
+## 📎 [LinkedIn](https://www.linkedin.com/in/lindor-gio/)  
 
-I am always looking for opportunities to collaborate on meaningful projects. If you're working on something interesting, feel free to reach out.
+### I am always looking for opportunities to collaborate on meaningful projects. If you're working on something interesting, feel free to reach out.
 
-When I’m not coding, I am most likely doing freelance photography (Sony FE 35mm f/1.4 GM), or editing photos. For hobby, I create digital art, traditional, sketches, or something in between. Either that, or I'm watching a show or playing a [game](https://steamcommunity.com/id/qumshoe/).
+### When I’m not coding, I am most likely doing freelance photography (Sony FE 35mm f/1.4 GM), or editing photos. For hobby, I create digital art, traditional, sketches, or something in between. Either that, or I'm watching a [show](https://www.imdb.com/user/ur191644204/) or playing a [game](https://steamcommunity.com/id/qumshoe/).
