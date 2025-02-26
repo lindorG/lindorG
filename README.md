@@ -1,4 +1,4 @@
-### Software Engineer | Backend, Frontend, Design, AI & Game Development<br><br>I design and build scalable software solutions, specializing in backend development, API integration, and cloud computing. My expertise spans Java (Spring Boot), containerization (Docker, Kubernetes, OpenShift, Google Cloud), and AI-driven automation. I have expertise in SQL and data management, system optimization, and process automation, with a focus on creating maintainable and efficient software architectures.
+### Software Engineer | Backend, Frontend, SQL, Cloud, Design, AI & Game Development<br><br>I design and build scalable software solutions, specializing in backend development, API integration, and cloud computing. My expertise spans Java (Spring Boot), containerization (Docker, Kubernetes, OpenShift, Google Cloud), and AI-driven automation. I have expertise in SQL and data management, system optimization, and process automation, with a focus on creating maintainable and efficient software architectures.
 
 
 # 💻 Tech Stack:
